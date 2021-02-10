@@ -1,0 +1,27 @@
+p{
+
+    color:black;
+background-color:transparent;
+max-width:1500;
+margin:auto;
+text-align: center;
+font-size:50px;
+}
+.ok{
+    color:white;
+    background-color:transparent;
+    max-width:1250;
+    margin:auto;
+    text-align: center;
+    font-size:30px;
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../logo.png);
+    height: 135vh;
+    background-size:cover;
+    background-position:center;
+    background-color:lightcoral;
+}
+p a{
+    color:whitesmoke;
+}
